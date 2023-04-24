@@ -29,7 +29,8 @@ You must be sure to specify the information in the config all examples below
 
 ```regions: [ "os_euro" ]``` This program support only one region ```os_euro``` or ```os_asia``` without Arrays
 
-how to get cookies go to the site https://genshin.hoyoverse.com/en/gift
+how to get cookies go to the site https://genshin.hoyoverse.com/en/gift login required!
+
 open the developer console write > ```copy(document.cookie)```
 
 after that it is added to your clipboard, paste it either into a file or in the browser ```CTRL + V``` You are looking for the necessary lines that I indicated in the example above and use
